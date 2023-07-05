@@ -1,0 +1,9 @@
+pandas
+matplotlib
+sklearn
+numpy
+scipy
+seaborn
+plotly
+plotly.express
+mlxtend.regressor
